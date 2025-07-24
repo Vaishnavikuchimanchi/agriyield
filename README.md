@@ -1,0 +1,1 @@
+AgriYield is a simple machine learning-based project designed to predict crop yields using climate factors like rainfall, temperature, and pesticide usage. It helps farmers and researchers make informed decisions to improve agricultural productivity.
